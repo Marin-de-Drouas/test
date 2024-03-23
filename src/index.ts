@@ -1,5 +1,6 @@
 import './index.css';
-import { Watch, Matrix, Vector} from './example-unit';
+import { Watch } from './watch-unit';
+import { Matrix, Vector } from './matrix-unit';
 
 var watchNumber = 0;
 var rotationPoint = {x: 200, y: 300};
