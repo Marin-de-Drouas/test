@@ -1,3 +1,59 @@
-h1 {
-    color: red;
+div:first-child {
+    opacity: .99; 
+}
+  
+
+.menu {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgrey;
+    border: 5px solid black;
+    z-index: 999;
+    margin-left: 0px;
+}
+
+.title {
+    text-align: center;
+    color: black;
+}
+
+.watch {
+    text-align: center;
+    color: lightgreen;
+    background-color: black;
+}
+
+.watchContainer {
+    opacity: .99;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgrey;
+    border: 5px solid black;
+    border-radius: 15px;
+    position: absolute;
+}
+
+button {
+    text-decoration: none;
+    background-color: white;
+    color: grey;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+button:hover {
+    border: 2px solid black;
+}
+
+.custom-select {
+    background-color: white;
+    color: grey;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
 }
