@@ -1,5 +1,10 @@
-# template-ts
-Template typescript project
+# GE Healthcare test
+
+Class diagram
+
+![Alt text](Class_diagram.png?raw=true "Title")
+
+Launch app
 
 ```javascript
 npm install
