@@ -2,7 +2,7 @@
 
 Class diagram
 
-![Alt text](Class_diagram.png?raw=true "Title")
+![Alt text](Class_diagram2.png?raw=true "Title")
 
 Launch app
 
